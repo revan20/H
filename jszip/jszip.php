@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Jszip
  * Description: Permite bajar todas las imagenes de una entrada comprimidos en zip con un boton de descarga.
- * Author: Oscar254
+ * Author: revan20
  * Version: 0.1
  */
 
